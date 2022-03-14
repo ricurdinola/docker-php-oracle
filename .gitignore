@@ -1,0 +1,10 @@
+# Jetbrains editors (PHPStorm, etc)
+.idea/
+
+/web-server/www/.env
+
+/web-server/www/writable/cache/
+/web-server/www/writable/debugbar/
+/web-server/www/writable/logs/
+/web-server/www/writable/session/
+/web-server/www/writable/uploads/
